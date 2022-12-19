@@ -27,7 +27,7 @@ Note 3: Command line argument precedes over environment variable.
 ```bash
     mkdir -p ~/MyProjects
     cd ~/MyProjects
-    git clone https://github.com/dcom-19/Dockerized-webapp-flask-bgcolor.git
+    git clone https://github.com/dcom-19/dockerized-webapp-flask-bgcolor.git
 ```
 2. Now you have to build the Docker Image locally.
 ```bash
